@@ -1,0 +1,12 @@
+{
+  "name": "apigee-rate-limiter-poc",
+  "version": "1.0.0",
+  "description": "PoC for rate limiting an API based on header info only.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "apigeetool": "^0.14.2"
+  }
+}

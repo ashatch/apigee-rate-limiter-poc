@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="impose-quota" version="SHA-512:c9fa343c043ee2a736b86ede60733f5c27b63e67d9e337d35098a3379ae00b846762d1d13a873cc436d3faf9c7c8dfebf14daf792cf47ae2c88586651e056f57"/>
+        <VersionInfo resourceName="remove-query-param-apikey" version="SHA-512:bebd2e662024f852231175e62f9aa7367aec21aa9ab4541f19e85d7d0f5d8dabe69cd2aea0ef00676549e0e7867693a907b8f661a0a7a4773587fd135a3b5f09"/>
+        <VersionInfo resourceName="verify-api-key" version="SHA-512:6595defb9a0b6d7fce111a9fe959f5e8a7aa03ffb301373c4c4e20e814648b42d5858631e95e4a8d698b5fe2139390c252e9011d9f1be8c3a35de73c1c269f97"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:aecd5d6541ac71071278e4f8f268fef0f914fabddcd7b12ef37f41feddadd850717acb536931c21d0e8790829a7dabb435180c042177018b71318a83b7a50af9"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:e2535ceb7b4a392086898548841ffdbb4a67ae875e5602be227df77ff5384bd0714a23ca447945eaafc8d597f27e5d451baae100b6d00af1eed4c68732dd36b6"/>
+    </TargetEndpoints>
+</Manifest>

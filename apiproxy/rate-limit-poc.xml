@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="vse-poc">
+    <Basepaths>/</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1592831526726</CreatedAt>
+    <CreatedBy>e-mail-address@example.com></CreatedBy>
+    <Description></Description>
+    <DisplayName>rate-limit-poc</DisplayName>
+    <LastModifiedAt>1592831526726</LastModifiedAt>
+    <LastModifiedBy>e-mail-address@example.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:50698870fcac932c0820a5fafdfb2db55160f6525f9c90b32dc76850da522e3b82503672cda59db1d5d4e040c1b909becc36269d649626a5d1390e65022b5f8a</ManifestVersion>
+    <Policies>
+        <Policy>impose-quota</Policy>
+        <Policy>remove-query-param-apikey</Policy>
+        <Policy>verify-api-key</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
