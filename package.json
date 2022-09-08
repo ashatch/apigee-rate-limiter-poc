@@ -7,6 +7,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "apigeetool": "^0.14.2"
+    "apigeetool": "^0.16.1"
   }
 }
